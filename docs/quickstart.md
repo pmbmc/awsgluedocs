@@ -119,5 +119,5 @@ Note:
  
  #### Return to AWS Glue plugin Introduction
 
-https://pmbmc.github.io/ifdocs/
+https://pmbmc.github.io/awsgluedocs/
 
