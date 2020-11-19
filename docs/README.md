@@ -39,7 +39,7 @@ visibility and management of the entire ecosystem, bonding pipelines with supply
 * #### 3. Integrate AWS Glue job runs with all existing Control-M capabilities.  
     For example : 
                    
-        a. Have your Glue jobs defined in JSON and managed by your cicd process.          
+        a. Have your Glue trigger jobs defined in JSON and managed by your cicd process.          
         b. Attach SLA's to your pipeline.
         c. Wait for a file source to arrive, process it in an application and run a Glue Job based on the outcome.
         d. Attach prior and post dependancy steps to your pipeline for a fully encompassed view of your environment.
