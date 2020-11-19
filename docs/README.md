@@ -41,7 +41,7 @@ visibility and management of the entire ecosystem, bonding pipelines with supply
                    
         a. Have your Glue jobs defined in JSON and managed by your cicd process.          
         b. Attach SLA's to your pipeline.
-        c. Wait for a b2b source to arrive and process it in an application and run a pipeline based on the outcome.
+        c. Wait for a file source to arrive, process it in an application and run a Glue Job based on the outcome.
         d. Attach prior and post dependancy steps to your pipeline for a fully encompassed view of your environment.
         e. A single reference point for the entire lifecycle of your data, from creation to analytics.
 
