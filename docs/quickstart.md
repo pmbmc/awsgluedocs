@@ -14,7 +14,7 @@ https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-python-calling.h
 Prerequisites and installation notes:
 
     1.) Control-M Agent V9.0.20x or higher on a supported Linux or Windows environment with the Application Integrator CM V9.0.20x or higher
-    2.) AWS access keys from programmatic access
+    2.) AWS access keys for programmatic access
    
 #### Authentication:
 This plugin uses the AWS recommended access key ID and secret access key for programmatic access.
