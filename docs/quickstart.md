@@ -96,6 +96,7 @@ Place the files in an accessible location on the host where the Control-M agent 
 ### Windows Connection profile example
 
 ![connectionprofile](./images/gluconnwinprofdetails.png)
+
 #### 5. Define an AWS Glue trigger job in Control-M
 
 ##### Job palette - Drag and drop your jobtype into a folder
