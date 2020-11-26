@@ -53,4 +53,4 @@ visibility and management of the entire ecosystem, bonding pipelines with supply
  
  https://pmbmc.github.io/ifdocs/#/awsglue_troubleshooting
 
- 
+![](./videos/ct_dataops.mp4 ':include :type=iframe width=100% height=400px') 
