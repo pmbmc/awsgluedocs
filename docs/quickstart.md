@@ -159,7 +159,7 @@ Performance is dependant on your connectivity to AWS. Control-M jobs do not affe
 themselves. Control-M performs the triggering, monitoring and supplied completion status and information of the jobs.
 
 Note:
-    The current job type has been tested on Linux
+    The current job type has been tested on Linux and Windows
  
  #### Return to AWS Glue plugin Introduction
 
